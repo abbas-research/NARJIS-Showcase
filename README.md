@@ -2,7 +2,7 @@
   <img src="og-image.png" width="200" alt="Narjis App Icon"/>
 </p>
 
-<h1 align="center">🌸 Narjis</h1>
+<h1 align="center">🌸 NARJIS</h1>
 
 <p align="center">
   <strong>Islamic app for daily growth & Quranic guidance.</strong>
