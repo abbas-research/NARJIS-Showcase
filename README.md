@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="og-image.png" width="200" alt="Narjis App Icon"/>
+</p>
 # 🌸 Narjis
 
 **Islamic app for daily growth & Quranic guidance.**
