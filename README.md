@@ -1,9 +1,14 @@
 <p align="center">
   <img src="og-image.png" width="200" alt="Narjis App Icon"/>
 </p>
-# 🌸 Narjis
 
-**Islamic app for daily growth & Quranic guidance.**
+<h1 align="center">🌸 Narjis</h1>
+
+<p align="center">
+  <strong>Islamic app for daily growth & Quranic guidance.</strong>
+</p>
+
+---
 
 Narjis helps you find comfort in the Qur'an, connect with the Ahlul Bayt (ع), track your prayers, collect good deeds, and find the right words when you can't speak.
 
@@ -72,8 +77,10 @@ Coming soon to Google Play Store.
 
 ## 🌸 About the Name
 
-**Narjis** — named after Sayyida Narjis (a), the mother of Imam al-Mahdi (ع). It means "narcissus flower" — a symbol of beauty, grace, and light.
+**Narjis** — named after Sayyida Narjis (s.a), the mother of Imam al-Mahdi (ع). It means "narcissus flower" — a symbol of beauty, grace, and light.
 
 ---
 
-Made with intention of Sadqa jariya. May Allah accept it. 🤲
+<p align="center">
+  Made with intention of Sadqa jariya. May Allah accept it. 🤲
+</p>
